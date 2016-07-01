@@ -298,7 +298,7 @@
 			</plugin>
 			<plugin>
 				<groupId>org.codehaus.mojo</groupId>
-				<artifactId>covetura-maven-plugin</artifactId>
+				<artifactId>cobetura-maven-plugin</artifactId>
 				<version>2.5.1</version>
 				<configuration>
 					<formats>
